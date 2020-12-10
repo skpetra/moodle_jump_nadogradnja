@@ -1,7 +1,7 @@
 # Multimedijski sustavi
 ## MOODLE JUMP
 
-Nadogradnja igrice Moodle jump, završnog projekta kolegija Multimedijski sustavi iz 2019./2020. godine. Projekt možete naći na sljedećem [linku](https://github.com/tomarga/moodle-jump).
+Nadogradnja igrice Moodle jump, završnog projekta kolegija Multimedijski sustavi iz 2019./2020. godine. Originalni projekt se može naći na sljedećem [linku](https://github.com/tomarga/moodle-jump).
 Pozabavila sam se dodavanjem novog ekrana s uputama za igru, poboljšanjem dizajna većine ekrana, 
 te dodavanjem novih funkcionalnosti u igricu.
 
